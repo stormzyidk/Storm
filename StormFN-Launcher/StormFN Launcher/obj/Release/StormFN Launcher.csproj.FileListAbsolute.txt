@@ -1,0 +1,72 @@
+C:\Users\karim\source\repos\Stormfn\StormFN Launcher\bin\Release\StormFN Launcher.exe.config
+C:\Users\karim\source\repos\Stormfn\StormFN Launcher\bin\Release\StormFN Launcher.exe
+C:\Users\karim\source\repos\Stormfn\StormFN Launcher\bin\Release\StormFN Launcher.pdb
+C:\Users\karim\source\repos\Stormfn\StormFN Launcher\obj\Release\StormFN Launcher.exe.config
+C:\Users\karim\source\repos\Stormfn\StormFN Launcher\obj\Release\MainWindow.g.cs
+C:\Users\karim\source\repos\Stormfn\StormFN Launcher\obj\Release\App.g.cs
+C:\Users\karim\source\repos\Stormfn\StormFN Launcher\obj\Release\StormFN Launcher_MarkupCompile.cache
+C:\Users\karim\source\repos\Stormfn\StormFN Launcher\obj\Release\StormFN Launcher_MarkupCompile.lref
+C:\Users\karim\source\repos\Stormfn\StormFN Launcher\obj\Release\App.baml
+C:\Users\karim\source\repos\Stormfn\StormFN Launcher\obj\Release\MainWindow.baml
+C:\Users\karim\source\repos\Stormfn\StormFN Launcher\obj\Release\StormFN Launcher.g.resources
+C:\Users\karim\source\repos\Stormfn\StormFN Launcher\obj\Release\StormFN_Launcher.Properties.Resources.resources
+C:\Users\karim\source\repos\Stormfn\StormFN Launcher\obj\Release\StormFN Launcher.csproj.GenerateResource.cache
+C:\Users\karim\source\repos\Stormfn\StormFN Launcher\obj\Release\StormFN Launcher.csproj.CoreCompileInputs.cache
+C:\Users\karim\source\repos\Stormfn\StormFN Launcher\obj\Release\StormFN Launcher.exe
+C:\Users\karim\source\repos\Stormfn\StormFN Launcher\obj\Release\StormFN Launcher.pdb
+C:\Users\karim\source\repos\Stormfn\StormFN Launcher\obj\Release\StormFN Launcher.csproj.Fody.CopyLocal.cache
+C:\Users\karim\source\repos\Stormfn\StormFN Launcher\obj\Release\StormFN Launcher.csprojAssemblyReference.cache
+D:\vs\15.40 fix\StormFN Launcher\bin\Release\StormFN Launcher.exe.config
+D:\vs\15.40 fix\StormFN Launcher\bin\Release\StormFN Launcher.exe
+D:\vs\15.40 fix\StormFN Launcher\bin\Release\StormFN Launcher.pdb
+D:\vs\15.40 fix\StormFN Launcher\obj\Release\StormFN Launcher.csprojAssemblyReference.cache
+D:\vs\15.40 fix\StormFN Launcher\obj\Release\StormFN Launcher.exe.config
+D:\vs\15.40 fix\StormFN Launcher\obj\Release\MainWindow.g.cs
+D:\vs\15.40 fix\StormFN Launcher\obj\Release\App.g.cs
+D:\vs\15.40 fix\StormFN Launcher\obj\Release\StormFN Launcher_MarkupCompile.cache
+D:\vs\15.40 fix\StormFN Launcher\obj\Release\StormFN Launcher_MarkupCompile.lref
+D:\vs\15.40 fix\StormFN Launcher\obj\Release\App.baml
+D:\vs\15.40 fix\StormFN Launcher\obj\Release\MainWindow.baml
+D:\vs\15.40 fix\StormFN Launcher\obj\Release\StormFN Launcher.g.resources
+D:\vs\15.40 fix\StormFN Launcher\obj\Release\StormFN_Launcher.Properties.Resources.resources
+D:\vs\15.40 fix\StormFN Launcher\obj\Release\StormFN Launcher.csproj.GenerateResource.cache
+D:\vs\15.40 fix\StormFN Launcher\obj\Release\StormFN Launcher.csproj.CoreCompileInputs.cache
+D:\vs\15.40 fix\StormFN Launcher\obj\Release\StormFN Launcher.csproj.Fody.CopyLocal.cache
+D:\vs\15.40 fix\StormFN Launcher\obj\Release\StormFN Launcher.exe
+D:\vs\15.40 fix\StormFN Launcher\obj\Release\StormFN Launcher.pdb
+D:\vs\stormfnlauncher\StormFN Launcher\bin\Release\StormFN Launcher.exe.config
+D:\vs\stormfnlauncher\StormFN Launcher\bin\Release\StormFN Launcher.exe
+D:\vs\stormfnlauncher\StormFN Launcher\bin\Release\StormFN Launcher.pdb
+D:\vs\stormfnlauncher\StormFN Launcher\obj\Release\StormFN Launcher.csprojAssemblyReference.cache
+D:\vs\stormfnlauncher\StormFN Launcher\obj\Release\StormFN Launcher.exe.config
+D:\vs\stormfnlauncher\StormFN Launcher\obj\Release\MainWindow.g.cs
+D:\vs\stormfnlauncher\StormFN Launcher\obj\Release\App.g.cs
+D:\vs\stormfnlauncher\StormFN Launcher\obj\Release\StormFN Launcher_MarkupCompile.cache
+D:\vs\stormfnlauncher\StormFN Launcher\obj\Release\StormFN Launcher_MarkupCompile.lref
+D:\vs\stormfnlauncher\StormFN Launcher\obj\Release\App.baml
+D:\vs\stormfnlauncher\StormFN Launcher\obj\Release\MainWindow.baml
+D:\vs\stormfnlauncher\StormFN Launcher\obj\Release\StormFN Launcher.g.resources
+D:\vs\stormfnlauncher\StormFN Launcher\obj\Release\StormFN_Launcher.Properties.Resources.resources
+D:\vs\stormfnlauncher\StormFN Launcher\obj\Release\StormFN Launcher.csproj.GenerateResource.cache
+D:\vs\stormfnlauncher\StormFN Launcher\obj\Release\StormFN Launcher.csproj.CoreCompileInputs.cache
+D:\vs\stormfnlauncher\StormFN Launcher\obj\Release\StormFN Launcher.csproj.Fody.CopyLocal.cache
+D:\vs\stormfnlauncher\StormFN Launcher\obj\Release\StormFN Launcher.exe
+D:\vs\stormfnlauncher\StormFN Launcher\obj\Release\StormFN Launcher.pdb
+C:\Users\moham\OneDrive\Desktop\StormFN-Launcher-main\StormFN Launcher\obj\Release\StormFN Launcher.exe.config
+C:\Users\moham\OneDrive\Desktop\StormFN-Launcher-main\StormFN Launcher\obj\Release\MainWindow.g.cs
+C:\Users\moham\OneDrive\Desktop\StormFN-Launcher-main\StormFN Launcher\obj\Release\App.g.cs
+C:\Users\moham\OneDrive\Desktop\StormFN-Launcher-main\StormFN Launcher\obj\Release\StormFN Launcher_MarkupCompile.cache
+C:\Users\moham\OneDrive\Desktop\StormFN-Launcher-main\StormFN Launcher\obj\Release\StormFN Launcher_MarkupCompile.lref
+C:\Users\moham\OneDrive\Desktop\StormFN-Launcher-main\StormFN Launcher\obj\Release\StormFN Launcher.exe
+C:\Users\moham\OneDrive\Desktop\StormFN-Launcher-main\StormFN Launcher\obj\Release\StormFN Launcher.pdb
+C:\Users\moham\OneDrive\Desktop\StormFN-Launcher-main\StormFN Launcher\bin\Release\StormFN Launcher.exe.config
+C:\Users\moham\OneDrive\Desktop\StormFN-Launcher-main\StormFN Launcher\bin\Release\StormFN Launcher.exe
+C:\Users\moham\OneDrive\Desktop\StormFN-Launcher-main\StormFN Launcher\bin\Release\StormFN Launcher.pdb
+C:\Users\moham\OneDrive\Desktop\StormFN-Launcher-main\StormFN Launcher\obj\Release\App.baml
+C:\Users\moham\OneDrive\Desktop\StormFN-Launcher-main\StormFN Launcher\obj\Release\MainWindow.baml
+C:\Users\moham\OneDrive\Desktop\StormFN-Launcher-main\StormFN Launcher\obj\Release\StormFN Launcher.g.resources
+C:\Users\moham\OneDrive\Desktop\StormFN-Launcher-main\StormFN Launcher\obj\Release\StormFN_Launcher.Properties.Resources.resources
+C:\Users\moham\OneDrive\Desktop\StormFN-Launcher-main\StormFN Launcher\obj\Release\StormFN Launcher.csproj.GenerateResource.cache
+C:\Users\moham\OneDrive\Desktop\StormFN-Launcher-main\StormFN Launcher\obj\Release\StormFN Launcher.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Desktop\StormFN-Launcher-main\StormFN Launcher\obj\Release\StormFN Launcher.csproj.Fody.CopyLocal.cache
+C:\Users\moham\OneDrive\Desktop\StormFN-Launcher-main\StormFN Launcher\obj\Release\StormFN Launcher.csprojAssemblyReference.cache

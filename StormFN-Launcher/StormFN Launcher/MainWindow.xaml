@@ -1,0 +1,33 @@
+﻿<Window x:Class="StormFN_Launcher.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StormFN_Launcher"
+        mc:Ignorable="d"
+        Title="Storm Launcher" Height="416" Width="723.333"
+        xmlns:ui="http://schemas.modernwpf.com/2019"
+        Loaded="MainWindow_Load"
+        Closed="Save_settings"
+        ui:WindowHelper.UseModernWindowStyle="True" ResizeMode="CanMinimize">
+    <Grid x:Name="___NewText_">
+        <Button x:Name="LoginButton" Content="Login" HorizontalAlignment="Stretch" Margin="10,0,627.8,16.4" VerticalAlignment="Bottom" RenderTransformOrigin="2.438,-6.281" Click="Login_click" Height="31"/>
+        <Label Content="StormFN" HorizontalAlignment="Left" Margin="223,106,0,0" VerticalAlignment="Top" FontFamily="/StormFN Launcher;component/#Burbank Big Cd Bk" FontSize="96"/>
+        <Label Content="&#xE713;" HorizontalAlignment="Left" Visibility="Hidden" Margin="655,0,0,11.667" FontFamily="Segoe MDL2 Assets" FontSize="48" Height="50" VerticalAlignment="Bottom" RenderTransformOrigin="1.004,0.507" Width="50">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="0.707"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="0.158"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label Visibility="Hidden" x:Name="Logged_in_as" Content="Logged In As:" HorizontalAlignment="Left" Margin="10,295,0,0" VerticalAlignment="Top"/>
+        <Label Visibility="Hidden" x:Name="DisplayName" Content="Invalid" HorizontalAlignment="Left" Margin="10,312,0,0" VerticalAlignment="Top" FontFamily="Segoe UI Black"/>
+        <TextBox x:Name="FN_Path" HorizontalAlignment="Left" Height="32" Margin="99,334,0,0" TextWrapping="Wrap" Text="Fortnite Path" VerticalAlignment="Top" Width="566"/>
+        <Button x:Name="select_fn_path_button" Content="..." HorizontalAlignment="Left" Height="32" Margin="670,334,0,0" Click="Select_fn_path_button_Click" VerticalAlignment="Top" Width="37"/>
+        <TextBox x:Name="Custom_Name" HorizontalAlignment="Left" Height="32" Margin="459,296,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="205" TextChanged="Custom_Name_TextChanged" MouseDown="Custom_Name_MouseDown"/>
+        <Label Content="Custom Name:" HorizontalAlignment="Left" VerticalAlignment="Top" Height="24" Width="97" RenderTransformOrigin="0.772,0.917" Margin="352,301,0,0"/>
+    </Grid>
+</Window>
